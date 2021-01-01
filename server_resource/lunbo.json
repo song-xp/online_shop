@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"img_Url": "http://localhost:8086/online_shop_resource/api/lunbo_images/20191213180241750x410.jpg"
+	},
+	{
+		"id": 2,
+		"img_Url": "http://localhost:8086/online_shop_resource/api/lunbo_images/20191210154717750-410.jpg"
+	},
+	{
+		"id": 3,
+		"img_Url": "http://localhost:8086/online_shop_resource/api/lunbo_images/20190327135101750x410-%e4%bc%a0%e6%99%ba%e9%bb%91%e9%a9%ac%e7%a7%bb%e5%8a%a8%e7%ab%af%e5%b9%bb%e7%81%af.jpg"
+	}
+]
